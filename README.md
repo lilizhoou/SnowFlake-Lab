@@ -1,1 +1,1 @@
-<LATTERAL FLATTERN> : key, value, path, this, index, seq
+LATTERAL FLATTERN : key, value, path, this, index, seq
